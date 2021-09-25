@@ -1,0 +1,4 @@
+circle :  #e9f6fa
+outer and small cir : #a7c3e6
+dark background : #2d2a2a
+dark blue : #0b2a50
